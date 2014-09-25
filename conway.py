@@ -1,7 +1,7 @@
 import numpy as np
 
-DEFAULT_SHAPE       = (128, 128)
-DEFAULT_NONZERO     = [[ 63,  63]]
+DEFAULT_SHAPE   = (5, 5)
+DEFAULT_NONZERO = [[1,  2], [2, 2], [3, 2]]
 
 class Conway (object):
 
